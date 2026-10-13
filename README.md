@@ -9,7 +9,9 @@
 
 
 [ez egy link](https://www.google.com)
-'alert(valami);'
+
+
+`alert(valami);`
 
 
 
